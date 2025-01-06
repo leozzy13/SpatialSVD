@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pycvxcluster
+Version: 0.0.1
+Summary: some convex clustering algorithms
+Author: Daniel Li
+Requires-Python: >=3.8
+License-File: LICENSE.md
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: scikit-sparse
+Requires-Dist: numpy
